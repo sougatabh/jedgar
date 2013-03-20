@@ -1,0 +1,7 @@
+20:28:30.065 [nREPL-worker-0] INFO  org.eclipse.jetty.server.Server - jetty-8.1.9.v20130131
+20:28:30.177 [nREPL-worker-0] INFO  o.e.jetty.server.AbstractConnector - Started SelectChannelConnector@0.0.0.0:8080
+20:31:46.993 [qtp18050568-21] INFO  io.pedestal.service.http - {:line 55, :msg "GET /now"}
+20:32:39.874 [nREPL-worker-1] INFO  o.e.j.server.handler.ContextHandler - stopped o.e.j.s.ServletContextHandler{/,null}
+20:33:09.434 [nREPL-worker-0] INFO  org.eclipse.jetty.server.Server - jetty-8.1.9.v20130131
+20:33:09.570 [nREPL-worker-0] INFO  o.e.jetty.server.AbstractConnector - Started SelectChannelConnector@0.0.0.0:8080
+20:33:13.923 [qtp17867161-20] INFO  io.pedestal.service.http - {:line 55, :msg "GET /now"}
